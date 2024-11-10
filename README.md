@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Andile (Sfiso)</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andile+(Sfiso!;" />
+</h1>
 <h3 align="center">an IT enthusiast with a focus on intelligent industrial systems and automation. My passion lies in developing web and mobile applications that are not only functional but also user-friendly and intuitive.</h3>
 
 - 👯 I’m looking to collaborate on **exciting projects**
