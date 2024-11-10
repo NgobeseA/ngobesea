@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andile+(Sfiso!;" />
-</h1>
+<[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gabarito&weight=600&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Andile+Ngobese+(Sfiso))](https://git.io/typing-svg)
 <h3 align="center">an IT enthusiast with a focus on intelligent industrial systems and automation. My passion lies in developing web and mobile applications that are not only functional but also user-friendly and intuitive.</h3>
 
 - 👯 I’m looking to collaborate on **exciting projects**
